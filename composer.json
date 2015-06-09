@@ -1,0 +1,12 @@
+{
+    "name": "decouple/test",
+    "description": "Hack unit testing utility created for Decouple framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Ewing",
+            "email": "drew@phenocode.com"
+        }
+    ],
+    "require": {}
+}
