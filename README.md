@@ -1,4 +1,4 @@
-test
+decouple/test
 ====
 
-Hack unit testing utility created for Decouple framework
+Hack unit testing utility created for Decouple Framework.
