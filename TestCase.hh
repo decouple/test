@@ -3,7 +3,6 @@ use Exception;
 namespace Decouple\Test;
 class TestCase {
   private int $assertions = 0;
-  public function execute(): mixed {}
 
   public function assertEquals(mixed $a, mixed $b): void {
     if ($a != $b) {
